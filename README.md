@@ -1,16 +1,16 @@
-## Hi there 👋
+## oii seja bem vindo ⭐ 🌻
 
-<!--
-**fermxs/Fermxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Fernanda Maciel 💋
 
-Here are some ideas to get you started:
+- 📚 Estou estudndo na alura
+- 💻 Estou desenvolvendo na linguagem JavaScript
+- ✋ Utilizo ese espaço para minha oganização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você entrar em contato comigo 📧
+
+  xavier.silva.fernanda@escola.pr.gov.br
+  
+  @fermx_
+  
+  
+![](https://media1.tenor.com/m/eNVQ1fZNV4gAAAAC/billie-eilish-billie.gif)
